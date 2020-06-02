@@ -20,11 +20,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
+- Machine Learning
 - Computervision
 - Econophysics
 - Photography
-- Coffee!!
 
 education:
   courses:
@@ -62,6 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Reed Roberts is trained as a physicist but lives as a software engineer. Reed loves to take pictures of the sunset and to solve hard problems.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Reed Roberts is trained as a physicist but lives as a software engineer.
