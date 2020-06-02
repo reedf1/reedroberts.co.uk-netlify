@@ -57,9 +57,9 @@ email: "reedf1@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Researchers
+- Visitors
 ---
 
 Reed Roberts is trained as a physicist but lives as a software engineer. Reed loves to take pictures of the sunset and to solve hard problems.
