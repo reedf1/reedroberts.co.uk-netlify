@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: BSc Physics (Honours)
-    institution: Manchester University
+    institution: University of Manchester
     year: 2016
 
 # Social/Academic Networking
