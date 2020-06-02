@@ -30,7 +30,7 @@ education:
   courses:
   - course: BSc Physics (Honours)
     institution: University of Manchester
-    year: 2016
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
