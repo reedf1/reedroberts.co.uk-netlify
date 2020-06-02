@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Reed Roberts
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Software Engineer
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: 4Sight Imaging 
+  url: "https://www.4sightimaging.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computervision
+- Econophysics
+- Photography
+- Coffee!!
 
 education:
   courses:
@@ -61,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "reedf1@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
