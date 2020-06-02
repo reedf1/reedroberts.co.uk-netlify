@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "University of Manchester"
   company_url = ""
   location = "Manchester"
-  date_start = "2014-09-31"
+  date_start = "2014-09-01"
   date_end = "2017-05-01"
   description = """Earned a degree in physics."""
 
